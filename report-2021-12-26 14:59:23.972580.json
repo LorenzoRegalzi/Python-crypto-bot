@@ -1,0 +1,259 @@
+{
+    "maxVolumeLast24h": {
+        "symbol": "USDT",
+        "maxVolume": 51452028515.93965
+    },
+    "best_10_percent_change_24h": {
+        "best10": [
+            {
+                "symbol": "YUSRA",
+                "percent_change_24h": 130.64308469
+            },
+            {
+                "symbol": "POA",
+                "percent_change_24h": 104.3913399
+            },
+            {
+                "symbol": "PHA",
+                "percent_change_24h": 42.56713134
+            },
+            {
+                "symbol": "TIME",
+                "percent_change_24h": 39.11512954
+            },
+            {
+                "symbol": "IPX",
+                "percent_change_24h": 36.76262772
+            },
+            {
+                "symbol": "METIS",
+                "percent_change_24h": 35.29280773
+            },
+            {
+                "symbol": "VERI",
+                "percent_change_24h": 30.89100931
+            },
+            {
+                "symbol": "FAIR",
+                "percent_change_24h": 26.71148666
+            },
+            {
+                "symbol": "RDD",
+                "percent_change_24h": 23.55772429
+            },
+            {
+                "symbol": "LINA",
+                "percent_change_24h": 22.91000352
+            }
+        ],
+        "worst10": [
+            {
+                "symbol": "HYN",
+                "percent_change_24h": -45.54691268
+            },
+            {
+                "symbol": "BZRX",
+                "percent_change_24h": -34.09896818
+            },
+            {
+                "symbol": "BP",
+                "percent_change_24h": -32.91392571
+            },
+            {
+                "symbol": "SOS",
+                "percent_change_24h": -27.51368555
+            },
+            {
+                "symbol": "BNK",
+                "percent_change_24h": -25.47168504
+            },
+            {
+                "symbol": "TRU",
+                "percent_change_24h": -18.90283914
+            },
+            {
+                "symbol": "JADE",
+                "percent_change_24h": -16.66795685
+            },
+            {
+                "symbol": "DPR",
+                "percent_change_24h": -15.90047594
+            },
+            {
+                "symbol": "DACXI",
+                "percent_change_24h": -15.59462283
+            },
+            {
+                "symbol": "EPIC",
+                "percent_change_24h": -15.18011497
+            }
+        ]
+    },
+    "howMuchForBest20": [
+        {
+            "symbol": "BTC",
+            "price": 49817.34312448552
+        },
+        {
+            "symbol": "ETH",
+            "price": 4040.183647717102
+        },
+        {
+            "symbol": "BNB",
+            "price": 541.6321993359413
+        },
+        {
+            "symbol": "USDT",
+            "price": 0.9993965525482131
+        },
+        {
+            "symbol": "SOL",
+            "price": 197.43015581852825
+        },
+        {
+            "symbol": "ADA",
+            "price": 1.4355459720199113
+        },
+        {
+            "symbol": "XRP",
+            "price": 0.9146358093236162
+        },
+        {
+            "symbol": "USDC",
+            "price": 0.9999474668229968
+        },
+        {
+            "symbol": "LUNA",
+            "price": 99.65460387023022
+        },
+        {
+            "symbol": "DOT",
+            "price": 29.427036812725955
+        },
+        {
+            "symbol": "AVAX",
+            "price": 112.31287776806357
+        },
+        {
+            "symbol": "DOGE",
+            "price": 0.1876322844793672
+        },
+        {
+            "symbol": "SHIB",
+            "price": 3.764076602034008e-05
+        },
+        {
+            "symbol": "MATIC",
+            "price": 2.8446517850244217
+        },
+        {
+            "symbol": "CRO",
+            "price": 0.6186115031860694
+        },
+        {
+            "symbol": "BUSD",
+            "price": 0.9988330599796654
+        },
+        {
+            "symbol": "WBTC",
+            "price": 50101.59797339326
+        },
+        {
+            "symbol": "UNI",
+            "price": 17.110786162057316
+        },
+        {
+            "symbol": "LTC",
+            "price": 154.77446674505626
+        },
+        {
+            "symbol": "LINK",
+            "price": 22.212540929285698
+        }
+    ],
+    "howMuchTotalForBestVolumeLast24h": {
+        "total": 138075046666.69135
+    },
+    "percentageOfEarningsLast24h": [
+        {
+            "symbol": "BTC",
+            "earn": 1.9489543500000002
+        },
+        {
+            "symbol": "ETH",
+            "earn": 0.8408032799999999
+        },
+        {
+            "symbol": "BNB",
+            "earn": 0.6359492400000001
+        },
+        {
+            "symbol": "USDT",
+            "earn": 0.053582219999999986
+        },
+        {
+            "symbol": "SOL",
+            "earn": -3.09748432
+        },
+        {
+            "symbol": "ADA",
+            "earn": 0.6726650900000001
+        },
+        {
+            "symbol": "XRP",
+            "earn": 1.19954645
+        },
+        {
+            "symbol": "USDC",
+            "earn": 0.06504196
+        },
+        {
+            "symbol": "LUNA",
+            "earn": -3.4048707599999997
+        },
+        {
+            "symbol": "DOT",
+            "earn": -3.15349799
+        },
+        {
+            "symbol": "AVAX",
+            "earn": 4.08867784
+        },
+        {
+            "symbol": "DOGE",
+            "earn": 0.82877078
+        },
+        {
+            "symbol": "SHIB",
+            "earn": -0.14206025
+        },
+        {
+            "symbol": "MATIC",
+            "earn": -12.731630000000001
+        },
+        {
+            "symbol": "CRO",
+            "earn": 5.34004484
+        },
+        {
+            "symbol": "BUSD",
+            "earn": -0.04540331
+        },
+        {
+            "symbol": "WBTC",
+            "earn": 1.61739492
+        },
+        {
+            "symbol": "UNI",
+            "earn": 3.33707712
+        },
+        {
+            "symbol": "LTC",
+            "earn": 5.5703053
+        },
+        {
+            "symbol": "LINK",
+            "earn": -1.7961151100000001
+        }
+    ]
+}
